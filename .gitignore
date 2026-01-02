@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+env/
+*.env
+
+# Python cache files
+__pychache__/
+*.pyc
+
+# Database files (CRITICAL)
+*.db
+*.sqlite3
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Ignore all text files
+*.txt
+employee_images/
+database.csv
+jugaad.py
